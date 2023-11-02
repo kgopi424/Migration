@@ -1,2 +1,2 @@
 # java-web-app-docker
-Testing Bitbucket-jenkins-test hello
+Testing Bitbucket-jenkins hello
